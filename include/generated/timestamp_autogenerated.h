@@ -1,0 +1,6 @@
+#define U_BOOT_DATE "Apr 15 2023"
+#define U_BOOT_TIME "16:31:44"
+#define U_BOOT_TZ "-0300"
+#define U_BOOT_DMI_DATE "04/15/2023"
+#define U_BOOT_BUILD_DATE 0x20230415
+#define U_BOOT_EPOCH 1681587104

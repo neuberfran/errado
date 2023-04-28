@@ -1,0 +1,14 @@
+if TARGET_AXON_IMX8MP
+
+config SYS_BOARD
+	default "axon-imx8mp"
+
+config SYS_VENDOR
+	default "technexion"
+
+config SYS_CONFIG_NAME
+	default "axon-imx8mp"
+
+source "board/technexion/common/Kconfig"
+
+endif
